@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/New-React-Project/static/css/main.d73c508b.css",
+    "main.js": "/New-React-Project/static/js/main.000f4e63.js",
+    "static/js/453.11e030d7.chunk.js": "/New-React-Project/static/js/453.11e030d7.chunk.js",
+    "static/media/Layer 2.png": "/New-React-Project/static/media/Layer 2.24521e0c8d596dc325db.png",
+    "static/media/Layer 1.png": "/New-React-Project/static/media/Layer 1.532810f3b84230a03a24.png",
+    "static/media/cam1.webp": "/New-React-Project/static/media/cam1.d51cc1787fc2826a2c6b.webp",
+    "static/media/cam2.webp": "/New-React-Project/static/media/cam2.4f2bce68202cdec1dee9.webp",
+    "static/media/cam4.webp": "/New-React-Project/static/media/cam4.b75fe1ecdf28663a9ab6.webp",
+    "static/media/cam6.webp": "/New-React-Project/static/media/cam6.8a4aee19967d778ec92b.webp",
+    "static/media/cam3.webp": "/New-React-Project/static/media/cam3.ef2eb1cb285e5c7bf98a.webp",
+    "static/media/Second.svg": "/New-React-Project/static/media/Second.9fd64c9a42e6fd37b15fec474fcb94b6.svg",
+    "static/media/third.svg": "/New-React-Project/static/media/third.0690a9e0ce375587838ae21f3b2cea33.svg",
+    "index.html": "/New-React-Project/index.html",
+    "main.d73c508b.css.map": "/New-React-Project/static/css/main.d73c508b.css.map",
+    "main.000f4e63.js.map": "/New-React-Project/static/js/main.000f4e63.js.map",
+    "453.11e030d7.chunk.js.map": "/New-React-Project/static/js/453.11e030d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d73c508b.css",
+    "static/js/main.000f4e63.js"
+  ]
+}
