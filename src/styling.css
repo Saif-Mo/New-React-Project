@@ -1,0 +1,10 @@
+body{
+    background-color:black
+}
+.gradient-bg {
+    background: linear-gradient(120deg,rgba(90, 169, 248, 0.47),rgb(200, 207, 200));
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  

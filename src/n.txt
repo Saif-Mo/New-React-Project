@@ -1,0 +1,26 @@
+
+ <center>
+ <div style={{background: 'linear-gradient(145deg,rgb(13, 13, 13),rgb(43, 43, 43))',
+    borderRadius: '20px',padding: '20px',
+    width: '80%', textAlign: 'center',margin:'50px',boxShadow: '0px 10px 15px rgba(62, 60, 60, 0.3)', transition: 'transform 0.3s, box-shadow 0.3s'}}
+             
+            >
+              <img
+                src={product.image}
+                alt={product.title}
+                style={{
+                  width: '100%',
+                  borderRadius: '15px',
+                  marginBottom: '15px',
+                  height: '150px',
+                }}
+              />
+              <h3 style={{ color: 'rgb(255, 255, 255)', fontSize: '20px', margin: '10px 0' }}>
+                {product.title}
+              </h3>
+
+            </div></center>
+  );
+}
+
+export default ProductDetail;
